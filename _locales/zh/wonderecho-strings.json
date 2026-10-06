@@ -3,7 +3,7 @@
 	"wonderecho.readASRResultID|block": "读取识别结果ID",
 	"wonderecho.playASRCmdWorld|block": "播放命令类型语音 %value",
 	"wonderecho.playASRSpeakWorld|block": "播放播报类型语音 %value",
-	"wonderecho.playASRWorldID|block": "播放语音,|类型 %vtype|%value",
+	"wonderecho.playASRWorldID|block": "播放语音|类型 %vtype|%value",
 
 	"wonderecho.WORD_RESULT.GO_STRAIGHT|block": "前进",
 	"wonderecho.WORD_RESULT.GO_BACKWARD|block": "后退",
